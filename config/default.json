@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 80,
+  "mongodb": "mongodb://localhost:27017/featherStarter",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "Q7lzzIoDUgsPpyEGhj62jfol57armOivUq/sqL2MhWfAIMID0m4rjSOIRNirhzla6ILXsdG6CSLwJvZ15EjwCw=="
+    },
+    "local": {}
+  }
+}
